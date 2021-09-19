@@ -1,4 +1,6 @@
-Hi im Josh. Still learning how to use git ^^. I love GNU/Linux and PC Hardware. 
+Hi im Josh. Still learning how to use git so thats why I spam commits like a pleb. 
+
+I love GNU/Linux and PC Hardware. 
 
 Also obssesed with ricing, efficiency and productivity. Currently a first year Game Design student at Vega Cape Town. 
 
