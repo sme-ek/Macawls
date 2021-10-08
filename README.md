@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <img src='https://data.whicdn.com/images/354171585/original.gif' width='175px'>
 <br>
 <p>
-  Hello there! I'm sammy, an avid gamer and programmer,
+  Hi there! I'm Josh, an avid gamer and wannabe developer,
   that makes things either solve a problem I had, or seems cool and interesting (to me, anyway). Those are the 2 main reasons, besides being bored.
   Oh, I also watch anime. It's one of my favourite types of media. <a href='https://myanimelist.net/profile/TorchedSammy'>MyAnimeList profile here!</a>
   <br><br>
