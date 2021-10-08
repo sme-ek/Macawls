@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <h1>
   <sub>
-    <img src="https://avatars.githubusercontent.com/u/38820196?v=4" height="44">
+    <img src="https://avatars.githubusercontent.com/u/80009513?v=4" height="44">
   </sub>
-  sammyette
+  Macawls
 </h1>
 <p align="center"><strong>Welcome to my profile!</strong></p>
 <p align="center"><img width="40" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
