@@ -38,7 +38,7 @@ During my free time I enjoy going on adventures, watching series, listening to r
   Connect with me!
 </h2>
 <a href="https://steamcommunity.com/id/macawls/">
-<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)">
+<img src="https://img.shields.io/badge/My_Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)">
 </a>
 <img src="https://img.shields.io/badge/Macawls-0843-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/joshua.macauley@tutanota.com-840010?style=for-the-badge&logo=Tutanota&logoColor=white">
