@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 My current goals are learning C#, CSS, HTML and Bash scripting.
 During my free time I enjoy going on adventures, watching series, listening to rap and edm and occasionally playing some games.  
 <h2>
-  Languages and Favourite Software 
+  Languages and Software 
 </h2>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
