@@ -20,7 +20,9 @@ You can click the Preview link to take a look at your changes.
   (coming soon)<a href='in development'> My website </a>
 <br>
 <br>
-My current goals are learning C#, CSS, HTML and Bash scripting. During my free time I enjoy going on adventures, watching series and listening to rap and edm. 
+My current goals are learning C#, CSS, HTML and Bash scripting. During my free time I enjoy going on adventures, watching series and listening to rap and edm.
+<br>
+<br>
 <h2>
   Languages and Software 
 </h2>
