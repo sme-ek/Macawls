@@ -23,22 +23,23 @@ You can click the Preview link to take a look at your changes.
 My current goals are learning C#, CSS, HTML and Bash scripting.
 During my free time I enjoy going on adventures, watching series, listening to rap and edm and occasionally playing some games.  
 <h2>
-  <sub>
-  </sub>
   Languages and Favourite Software 
-  </h2>
+</h2>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
 <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+<img alt="Unity" img href="asdsad" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/><br>
 </br>
 <p align="center"><img width="250" src="https://i.imgur.com/5gGBMfV.png"></p>
-<p align="center"><strong>Contact me!</strong></p>
-<br>
-
-
-<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="left">
+<h2>
+  Connect with me!
+</h2>
+<a href="https://steamcommunity.com/id/macawls/">
+<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)">
+</a>
+<img src="https://img.shields.io/badge/Macawls-0843-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/joshua.macauley@tutanota.com-840010?style=for-the-badge&logo=Tutanota&logoColor=white">
 </div>
