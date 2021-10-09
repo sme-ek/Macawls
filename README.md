@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <p>
   Hi there! I'm Josh. Currently a first year Game Design Student.
   
-I've been gaming for as long as I can remember. Around 12 I started tinkering and messing with computers. One day I stumbled upon GNU/Linux and became completely obssessed. It opened up a world I never knew existed. Software, hardware and ethics are things I'm really passionate about. My dream is to eventually delve into DevOps down the line, but for now I plan on creating unique experiences for people to enjoy through gaming. 
+I've been gaming for as long as I can remember. Around 12 I started tinkering and messing with computers. One day I stumbled upon GNU/Linux and became completely obssessed. Software, hardware and ethics are things I'm really passionate about. My dream is to eventually delve into DevOps down the line, but for now I plan on creating unique experiences for people to enjoy through gaming. 
   
   (coming soon)<a href='in development'> My website </a>
 <br>
