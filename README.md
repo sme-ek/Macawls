@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
   Macawls
 </h1>
 <img src="https://raw.githubusercontent.com/Macawls/Macawls/main/render-compressed.jpg" align="right" width="600px">
-<img src='https://i.imgur.com/iEAFD5W.gif' width='120px'>
+<img src='https://i.imgur.com/iEAFD5W.gif' width='110px'>
 <br>
 <p>
   Hi there! I'm Josh. Software, hardware and ethics are things I'm really passionate about. My dream is to eventually delve into DevOps down the line, but for now I plan on creating unique experiences for people to enjoy through gaming. 
