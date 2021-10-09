@@ -1,45 +1,47 @@
-Hi im Josh. Still learning how to use git so thats why I spam commits like a pleb. 
-Currently a first year Game Design student at Vega Cape Town.
 
 <!---
 Macawls/Macawls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ***
 <div align="center">
 <h1>
   <sub>
-    <img src="https://avatars.githubusercontent.com/u/80009513?v=4" height="44">
+    <img src="https://avatars.githubusercontent.com/u/80009513?v=4" height="60">
   </sub>
   Macawls
 </h1>
-<p align="center"><strong>Welcome to my profile!</strong></p>
-<p align="center"><img width="40" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
-<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-<img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><br>
-<img src="https://64.media.tumblr.com/a71bc83661d3be8192c7d6cd62e2e966/tumblr_nrsh8x7Ztx1uyhxq0o1_500.gifv" align="right" width="500px">
-<img src='https://data.whicdn.com/images/354171585/original.gif' width='175px'>
+<img src="https://raw.githubusercontent.com/Macawls/Macawls/main/render-compressed.jpg" align="right" width="600px">
+<img src='https://i.imgur.com/iEAFD5W.gif' width='120px'>
 <br>
 <p>
-  Hi there! I'm Josh, an avid gamer and wannabe developer,
-  that makes things either solve a problem I had, or seems cool and interesting (to me, anyway). Those are the 2 main reasons, besides being bored.
-  Oh, I also watch anime. It's one of my favourite types of media. <a href='https://myanimelist.net/profile/TorchedSammy'>MyAnimeList profile here!</a>
-  <br><br>
-  As of recent I've gotten pretty comfortable with Go and Lua. My current projects are made with them.
-  <br>
-  During any random free time I have I listen to mostly (K)pop.
-</p>
+  Hi there! I'm Josh. Currently a first year Game Design Student.
+  
+I've been gaming for as long as I can remember. Around 12 I started tinkering and messing with computers. One day I stumbled upon GNU/Linux and became completely obssessed. It opened up a world I never knew existed. Software, hardware and ethics are things I'm really passionate about. My dream is to eventually delve into DevOps down the line, but for now I plan on creating unique experiences for people to enjoy through gaming. 
+  
+  (coming soon)<a href='in development'> My website </a>
 <br>
-<a href="https://torchedsammy.itch.io">
-  <img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white">
-</a>
-<a href="https://steamcommunity.com/id/sammyette">
-  <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white">
-</a>
 <br>
-<a href="https://discord.gg/3PDdcQz">
-  <img alt="sammy's cloud community" src="https://img.shields.io/badge/sammys%20cloud%20community-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
-</a>
+My current goals are learning C#, CSS, HTML and Bash scripting.
+During my free time I enjoy going on adventures, watching series, listening to rap and edm and occasionally playing some games.  
+<h2>
+  <sub>
+  </sub>
+  Languages and Favourite Software 
+  </h2>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="Bash" src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
+<img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
+<img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/><br>
+</br>
+<p align="center"><img width="250" src="https://i.imgur.com/5gGBMfV.png"></p>
+<p align="center"><strong>Contact me!</strong></p>
+<br>
+
+
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="left">
 </div>
