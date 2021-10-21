@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 My current goals are learning C#, CSS, HTML and Bash scripting. In my free time I enjoy going on adventures, binging shows and listening to rap and edm.
 <br>
 <br>
+<br>
 <h2>
   Languages and Software 
 </h2>
