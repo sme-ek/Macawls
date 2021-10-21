@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   </sub>
   Macawls
 </h1>
-<img src="https://raw.githubusercontent.com/Macawls/Macawls/main/render-compressed.jpg" align="right" width="600px">
+<img src="https://raw.githubusercontent.com/Macawls/Macawls/main/render-compressed.jpg" align="right" width="630px">
 <img src='https://i.imgur.com/iEAFD5W.gif' width='110px'>
 <br>
 <p>
