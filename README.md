@@ -11,17 +11,16 @@ You can click the Preview link to take a look at your changes.
   </sub>
   Macawls
 </h1>
-<img src="https://raw.githubusercontent.com/Macawls/Macawls/main/render-compressed.jpg" align="right" width="630px">
+<img src="https://raw.githubusercontent.com/Macawls/Macawls/main/render-compressed.jpg" align="right" width="600px">
 <img src='https://i.imgur.com/iEAFD5W.gif' width='110px'>
 <br>
 <p>
-  Hi there! I'm Josh. Software, hardware and ethics are things I'm really passionate about. My dream is to eventually delve into DevOps much later down the line, but for now I plan on creating unique experiences for people to enjoy through gaming. 
+  Hi there! I'm Josh. Software, hardware and ethics are things I'm really passionate about. My dream is to eventually delve into DevOps down the line, but for now I plan on creating unique experiences for people to enjoy through gaming.
   
   (coming soon)<a href='in development'> My website </a>
 <br>
 <br>
 My current goals are learning C#, CSS, HTML and Bash scripting. In my free time I enjoy going on adventures, binging shows and listening to rap and edm.
-<br>
 <br>
 <br>
 <h2>
